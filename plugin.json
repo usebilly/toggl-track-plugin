@@ -1,4 +1,5 @@
 {
+  "specVersion": 1,
   "name": "Toggl Track",
   "description": "Imports time entries from a Toggl Track CSV export as new invoices.",
   "version": "1.0.0",
