@@ -2,7 +2,7 @@
   "specVersion": 1,
   "name": "Toggl Track",
   "description": "Imports time entries from a Toggl Track CSV export as new invoices.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/usebilly/toggl-track-plugin",
   "author": "Billy",
   "authorUrl": "https://usebilly.app",
